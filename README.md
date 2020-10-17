@@ -2,8 +2,6 @@
 
 Basic notification-based rhythm system for Unity.
 
-Add the RhythmSystem component to a GameObject and subscribe from other scripts:
-
 ```C#
 public class Test : MonoBehaviour 
 {
